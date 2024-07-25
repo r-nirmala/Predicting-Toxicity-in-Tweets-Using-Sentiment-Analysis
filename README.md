@@ -19,9 +19,9 @@ Cleaning the text data by tokenizing, stemming, lemmatization, removal of punctu
 
 Converting the text data into numerical vectors using Countvectorizer and Tfidf methods.
 
-For each of these methods, applying ML classification algorithms such as RandomForest Classifier, SVC, DecisionTree Classifier, Naive Bayes model, KNN classifier and finding which model gives best accuracy score. 
+For each of these methods, applying ML classification algorithms such as RandomForest Classifier, SVC, DecisionTree Classifier, Naive Bayes model, KNN classifier and finding which model gives best accuracy. 
 
-Fitting the model to train the data and getting accuracy score and other evaluation metrics for unseen data.
+Training the model and getting accuracy score and other evaluation metrics for unseen data.
 
 Checking the model's prediction capability by manually passing tweet input and getting predictions as Toxic or Non-toxic tweets and finally analysing which method best suits for this dataset.
 
