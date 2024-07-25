@@ -6,7 +6,7 @@ Pandas
 
 Nltk
 
-Sci-kit learn
+Scikit-learn
 
 Numpy
 
