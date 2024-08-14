@@ -1,5 +1,5 @@
-## Predicting-Toxicity-in-Tweets-using-NLP-and-Machine-Learning
-The objective of the project is to predict toxicity in tweets by cleaning and preprocessing the text data, converting it into numerical vectors using natural language processing techniques, and applying machine learning classification algorithms to accurately classify tweets as toxic or non-toxic. 
+## Predicting Toxicity in Tweets Using Sentiment Analysis
+The objective of the project is to predict toxicity in tweets using sentiment analysis by preprocessing the text data, converting it into numerical vectors using natural language processing techniques, and applying machine learning classification algorithms to accurately classify tweets as toxic or non-toxic. 
 
 ### Tools used
 Pandas
